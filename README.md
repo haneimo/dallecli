@@ -5,7 +5,7 @@ Bing Image Creatorでは商用利用できないため、DALL-E3に直接プロ�
 
 ## 1. セットアップ
 ```
-git clone dallecli
+git clone git@github.com:haneimo/dallecli.git
 cd dallecli
 npm install
 ```
